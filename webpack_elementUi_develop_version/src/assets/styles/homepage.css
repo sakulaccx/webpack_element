@@ -1,0 +1,190 @@
+.body-content {
+	width: 375px;
+}
+img{
+	width: 100%;
+	display: inline-block;
+	vertical-align: middle;
+}
+.top {
+	width: 100%;
+	display: block;
+}
+
+.top img {
+	display: block;
+}
+
+/* owner */
+h6{
+	margin: 10px;
+}
+.notice-title{
+	margin-top: 0;
+	font-weight: normal;
+	color: red;
+}
+/* owner */
+
+.swiper-box {
+	background: #fff;
+	padding: 26px 15px;
+	height: 150px;
+	overflow: hidden;
+}
+
+.swiper-item {
+	width: 100%;
+	height: 100%;
+}
+
+.categories-wrap{
+	margin-top: 20px;
+	padding: 0 15px;
+}
+
+.cate-text{
+	width: 100%;
+	font-size: 12px;
+	text-align: center;
+}
+.cate-underline{
+	width: 40%;
+	border-bottom: 1px solid #ccc;
+	margin: 5px auto 5px auto;
+}
+.product-wrap{
+	margin-top: 40px;
+	padding: 0 15px;
+}
+.inner-wrap{
+	border: 1px solid #ccc;
+}
+.right-prdocut-desc{
+	height: 126px;
+}
+.up-title{
+	font-size: 12px;
+	padding: 15px 0;
+}
+.up-title div{
+	display: block;
+}
+.space-line{
+	width: 50%;
+	border-bottom: 1px solid #ccc;
+}
+.down-title{
+	padding-top: 10px;
+	font-size: 16px;
+}
+.favorite-wrap{
+	margin-top: 40px;
+	padding: 0 15px;
+}
+.favorite-item{
+	margin-bottom: 20px;
+}
+.favorite-title,
+.favorite-subtitle{
+	font-size: 12px;
+	text-align: center;
+}
+.favorite-img{
+	width: 40%;
+	margin: 10px auto 0 auto;
+}
+.map-wrap{
+	margin-top: 40px;
+	padding: 0 15px;
+}
+.map-wrap img{
+	border: 1px solid #ccc;
+}
+.honour-wrap{
+	margin-top: 30px;
+	padding: 0 15px;
+}
+.honour-img{
+	height: 87px;
+	line-height: 87px;
+}
+.honour-img div{
+	width: 70%;
+	margin: 0 auto;
+}
+.honour-title{
+	font-size: 14px;
+	margin: 10px 0;
+}
+.honour-desc{
+	font-size: 12px;
+}
+.start-now div{
+	width: 25%;
+	margin: 40px auto 0 auto;
+}
+
+.avatar-uploader .el-upload {
+	width: 100%;
+	border: 1px dashed #d9d9d9;
+	border-radius: 6px;
+	cursor: pointer;
+	position: relative;
+	overflow: hidden;
+}
+.avatar-uploader .el-upload:hover {
+	border-color: #20a0ff;
+}
+.avatar-uploader-icon {
+	font-size: 28px;
+	color: #8c939d;
+	width: 100%;
+	height: 178px;
+	line-height: 178px;
+	text-align: center;
+}
+.avatar {
+	margin: 0 auto;
+	width: 178px;
+	height: 178px;
+	display: block;
+}
+/* 弹出样式 */
+/* banner图片显示 */
+.banner-opt .avatar{
+	width: 100%;
+	height: auto;
+}
+.create-new{
+	display: block;
+	width: 100%;
+	height: 40px;
+	border-radius: 6px;
+	border: 1px solid #ccc;
+	text-align: center;
+	font-size: 16px;
+	line-height: 2.2;
+	margin: 0 auto;
+	cursor: pointer;
+}
+
+/* category图片显示 */
+.category-opt .avatar{
+	width: 246px;
+	height: 178px;
+}
+
+/* 产品图片显示 */
+.product-opt .avatar{
+	width: 326px;
+}
+
+/*地图显示*/
+.map-opt .avatar{
+	width: 347px;
+	height: 188px;
+}
+.save-url{
+	margin-top: 20px;
+}
